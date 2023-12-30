@@ -1,3 +1,4 @@
+//For general sets the time complexity for insertion , erase ,accessing elements , finding everyone,s complexity is O(logn) , so if we want to reduce this to O(1) complexity then we have to use unordered_map
 #include<bits/stdc++.h>
 using namespace std;
 void print(set<string>&str)
