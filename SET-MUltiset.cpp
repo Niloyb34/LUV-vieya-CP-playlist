@@ -40,12 +40,12 @@ int main()
        if(it!=s.end())//mane jdi "Jibon" ke pie jie tahole s.find() ,iterator return korbe mane ai line ta true hoi jabe and First je Jibon ta ase take muche felbe kintu baki jibon ta pore thakbe
        {
               cout<<"Erasing one Jibon element \n"<<endl;
-              s.erase(it);//First "Jibon " ta muche jabe and Baki jibon Gula roye jabe
+              s.erase(it);//First "Jibon " ta muche jabe and Baki jibon Gula roye jabe ,arokom iterator pass korle only 1st value ta delete hbe
        }
         print(s);///print function e multiset s take pass korci
         cout<<endl;
        //2nd method
        cout<<"Erasing all Jibon elements : "<<endl;
-       s.erase("Jibon");///mane Jibon name jara ase tar sbie muche jabe
+       s.erase("Jibon");///mane Jibon name jara ase tar sbie muche jabe , arokom s.erase er modde amra "Jibon" ke pass korle sobgula "Jibon" e chole jabe.
        print(s);///print function e multiset s take pass korci
 }
