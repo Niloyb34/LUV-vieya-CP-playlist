@@ -18,9 +18,22 @@ int main()
         cin>>str;
         s.insert(str);
     }
+    cout<<"SET is:--------->>>>>> "<<endl;
     for(auto value: s)
     {
             cout<<value<<endl;
     }
 
 }
+5
+NILOY
+NILOW
+niloy
+NILOU
+NILOo
+SET is:--------->>>>>>
+NILOU
+NILOW
+NILOY
+NILOo
+niloy
