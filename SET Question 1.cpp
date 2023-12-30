@@ -82,6 +82,15 @@ NILO
 NILOY
 NILOYB
 NIl
+//////////////////////////////////////////////////////
+Enter how many strings : 4
+NILOY          
+NILOY
+NILOY
+MILON
+SET is  :  JDIO iccamto akoi name er string input disi kintu set unique string gulake only dekie tie print korce only unique gula NILOY and MILON
+MILON
+NILOY
 */
 
 
