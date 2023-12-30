@@ -18,10 +18,10 @@ int main()
         cin>>str;
         s.insert(str);
     }
-  /*  for(auto it:s)
+   for(auto it:s)  ///SAME STRING INPUT DILEO unique string e print korbe unordered_set but order maintain korbe na
     {
         cout<<it<<endl;
-    }*/
+    }
     int q;
     cin>>q;
     while(q--)
